@@ -36,8 +36,8 @@ To interact with the assistant, simply run `python main.py` in your terminal aft
 Welcome! I'm your AI assistant. Type 'quit' to exit.
 You can chat with me or ask anyting.
 
-You: Hello there!
-Assistant: Hello! How can I assist you today?
+ **You: Hello there!**
+ **Assistant: Hello! How can I assist you today?**
 
 This interaction demonstrates the fundamental conversational capability of the agent. While currently limited without active tools, it forms the basis for more sophisticated interactions once tools are integrated.
 
